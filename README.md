@@ -1,6 +1,12 @@
 Use Markdown-Include extension: A Plugin for Pelican
 ====================================================
 
+> **Note**
+> The code in this repository has been moved into the [markdown-include][] repository, which is maintained under the auspices of the [Pelican-plugins]() organization. The present repository is archived and preserved here for historical purposes.
+
+[markdown-include]: https://github.com/pelican-plugins/markdown-include
+[Pelican-plugins]:https://github.com/pelican-plugins
+
 [![Build Status](https://img.shields.io/github/workflow/status/pelican-plugins/md-include/build)](https://github.com/pelican-plugins/md-include/actions)
 [![PyPI Version](https://img.shields.io/pypi/v/pelican-md-include)](https://pypi.org/project/pelican-md-include/)
 ![License](https://img.shields.io/pypi/l/pelican-md-include?color=blue)
