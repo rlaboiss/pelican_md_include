@@ -1,7 +1,7 @@
 Use Markdown-Include extension: A Plugin for Pelican
 ====================================================
 
-> **Note**
+> **Note**<br>
 > The code in this repository has been moved into the [markdown-include][] repository, which is maintained under the auspices of the [Pelican-plugins]() organization. The present repository is archived and preserved here for historical purposes.
 
 [markdown-include]: https://github.com/pelican-plugins/markdown-include
